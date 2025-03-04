@@ -2,10 +2,3 @@ html {
   height: 100%;
   width: 100%;
 }
-#Hovertext {
-  color:black;
-  transition: color 0.3s; /* Smooth transition */
-}
-#Hovertext:hover {
-  color:white;
-}
